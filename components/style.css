@@ -1,0 +1,17 @@
+@import url("container.css");
+@import url("avatar.css");
+@import url("button.css");
+@import url("banner.css");
+@import url("card.css");
+@import url("form.css");
+
+body {
+  font-size: 20px;
+  background-color: #454b4f;
+}
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+ 
+    
